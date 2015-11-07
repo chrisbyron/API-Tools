@@ -1,2 +1,2 @@
 # API-Tools
-Simple function that takes a call for an API's json response and returns a usable object.
+Simple function that takes an API's url and returns an object.
