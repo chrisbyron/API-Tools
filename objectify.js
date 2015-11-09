@@ -1,4 +1,4 @@
-function GetAsJSON(jsonUrl){
+function getAsJSON(jsonUrl){
 var Httpreq = new XMLHttpRequest(); // instantiate new request
 Httpreq.open("GET",jsonUrl,false);
 Httpreq.send(null);
